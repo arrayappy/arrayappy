@@ -1,6 +1,6 @@
 <h1 align='center'> Hey, I'm Appala Naidu Gadu 👋 👨‍💻</h1>
 
-<p align='center'>I'm an Aspiring Software Engineer interested in making scalable web applications which can be used by people and help them to do certain work easily. I know how to build applications with MERN Stack and deploy them completely at ready to use level.</p>
+<p align='center'>I'm a Software Engineer interested in making scalable web applications which can be used by people and help them to do certain work easily. I know how to build applications with MERN Stack and deploy them completely at ready to use level.</p>
 
 <p align='center'>
 <a href="https://twitter.com/arrayappy">
