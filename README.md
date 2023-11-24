@@ -1,5 +1,5 @@
 <h1 align='center'> Hey, I'm Appala Naidu Gadu </h1>
 
-- 🔭 I'm a Software Engineer - Full Stack at [Zobaze](https://zobaze.com) with over two years of **Software Engineering** experience at fast growing tech startups. Interested in building reliable, scalable and seamless software.
-- 🌱 I have professional experience working with  Serverless, Node.js, JavaScript, Typescript, React, Vue.js Python, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Git, and cloud services. I've made several open-source contributions at [mish-fit](https://github.com/mish-fit).
-- ⚡ I enjoy attending tech meetups and events, fostering connections with industry professionals through networking.
+- 🔭 I'm a Seasoned Software Engineer - Full Stack at [Zobaze](https://zobaze.com) with over two years of experience in designing and developing large-scale applications at fast-growing tech startups. I've made several contributions to open-source at [Mish-Fit](https://github.com/mish-fit) & [GDSC-RGUKTS](https://github.com/gdsc-rgukts).
+- 🌱 I have professional experience working with  Serverless, Node.js, JavaScript, Typescript, React, Vue.js Python, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Kubernetes, Git, and Cloud.
+- ⚡ I enjoy attending tech meetups and events, fostering new connections with industry professionals through networking.
