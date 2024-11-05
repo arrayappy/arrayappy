@@ -1,18 +1,15 @@
-<h1> Hey, I'm Appala Naidu </h1>
+## Hey, I'm Appala Naidu
 
-- 🔭 I'm a Seasoned Software Engineer - Full Stack with over 3 years of experience in designing and developing large-scale applications at fast-growing tech startups. I've made several contributions to open-source at [Mish-Fit](https://github.com/mish-fit) & [GDSC-RGUKTS](https://github.com/gdsc-rgukts).
-- 🚀 My areas of interests include databases, distributed systems, blockchain protocols, decentralized finance and zk proofs.
-- ⚡ I enjoy attending tech meetups and events, fostering new connections with industry professionals through networking.
+With over three years of experience in software engineering, I’ve worn many hats at startups — from full-stack development to leading entire technology stacks and managing production services. However, my most robust expertise lies in backend development, where I've designed and optimized APIs, architected databases, and enhanced system scalability. I've made several contributions to open-source at [Mish-Fit](https://github.com/mish-fit) & [GDSC-RGUKTS](https://github.com/gdsc-rgukts).
 
+My quick adaptability helps me experiment and roll out solutions faster. I’m deeply passionate about distributed systems and blockchains, where I focus on building systems that efficient, scalable, and always reliable.
 
-## Tech Stack
+### Technical Skills:
+- Languages: Rust, TypeScript, JavaScript, Python, Solidity
+- Backend: Rust, Node.js
+- Frontend: React.js, Next.js, Vue.js, Svelte
+- Databases: PostgreSQL, MongoDB, Firestore
+- Infra: Serverless, Docker, Kubernetes, GCP, Azure, Firebase, Git
+- Blockchain / Web3 Skills: Rust, Solana, Anchor, Web3.js, Solidity
 
-- **Backend:** Rust, Node.js, Rest APIs, gRPC
-- **Frontend:** React.js, Next.js, Vue.js, Svelte
-- **Database:** PostgreSQL, MySQL, MongoDB, OrbitDB, Redis
-- **Languages:** Rust, TypeScript, JavaScript, Solidity
-- **Infra:** Serverless, Docker, Kubernetes, GCP, Kafka, Firebase
-- **Blockchain / Web3 Skills:**
-  - Solana - Anchor, Solana Program Library, SPL Tokens, Web3.js
-  - Ethereum - Solidity, OpenZeppelin, Foundry, Ethers.js
-  - General - DeFi Protocols, NFTs, Oracles, IPFS
+Feel free to reach out to discuss technical challenges or potential collaboration opportunities at arrayappy@gmail.com.
